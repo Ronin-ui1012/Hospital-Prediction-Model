@@ -1,1 +1,1 @@
-This folder is for documentation
+This folder is for data collection
